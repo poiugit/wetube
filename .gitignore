@@ -118,3 +118,7 @@ dist
 .fusebox/
 package-lock.json
 uploads
+
+
+# installed
+.eslintrc.js
